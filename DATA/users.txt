@@ -1,0 +1,6 @@
+Alice,$2b$12$f0RIa2.3W4OJlwtAlIT8Vuzzejwsl9wu1hR2p5yfXCrgvj6yXsJa6,admin
+Bob123,$2b$12$ZC0i7rbIONsZUa5U06GyVuuxFHMTmEjCi5Lix55K0DarNHklq9ohG,user
+Aster12,$2b$12$4PcwdZnIc3Mj4Qz0l.wBX.i3F78VysCIHdMDo7EdRQuyUN0mMORB2,user
+Brelon7,$2b$12$OzJS2lx0goJ18ixwEVIxVOzPlM5HumlC7VHckUrhO1VVFtS35zFeS,user
+Elmar22,$2b$12$x0WHY4CObF/pHBS4akzz..FjjN3OHXwSUlUSm7oHaHOp5RxyN92q6,user
+Helix27,$2b$12$pgjgj2GUr2lYXhJTHdjhyuHuIHgeaZawUxE41pABSQMKUPAQtDBmq,user

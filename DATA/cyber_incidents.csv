@@ -1,0 +1,11 @@
+id,title,severity,status,date,user_id
+1,Phishing Email,High,Open,01/11/2025,1
+2,Malware Infection,Medium,Closed,02/11/2025,2
+3,Unauthorized Access,Critical,Open,03/11/2025,3
+4,Ransomware Attack,Critical,In Progress,04/11/2025,4
+5,Data Breach,High,Resolved,05/11/2025,5
+6,Password Leak,Medium,Open,06/11/2025,6
+7,DDoS Attack,High,Closed,07/11/2025,7
+8,SQL Injection,Medium,In Progress,08/11/2025,8
+9,Spyware Infection,Low,Open,09/11/2025,9
+10,Phishing Website,Medium,Resolved,10/11/2025,10

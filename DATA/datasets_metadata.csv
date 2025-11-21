@@ -1,0 +1,11 @@
+﻿id,name,source,category,size
+1,User Login Logs,System,Authentication,20MB
+2,Network Traffic,Router,Networking,150MB
+3,System Logs,Server,System,50MB
+4,Email Logs,Mail Server,Email,30MB
+5,Firewall Logs,Firewall,Security,40MB
+6,Server Metrics,Monitoring Tool,Performance,25MB
+7,Application Logs,App Server,Application,35MB
+8,VPN Logs,VPN Server,Networking,15MB
+9,Endpoint Logs,Endpoint Devices,Security,45MB
+10,Database Logs,Database Server,Database,60MB

@@ -1,0 +1,11 @@
+﻿id,title,priority,status,created_date,user_id
+1,Computer Won't Start,High,Open,01/11/2025,1
+2,Email Not Working,Medium,In Progress,02/11/2025,2
+3,VPN Connection Issue,High,Open,03/11/2025,3
+4,Password Reset,Low,Resolved,04/11/2025,4
+5,Software Installation,Medium,Open,05/11/2025,5
+6,Printer Not Working,Low,Closed,06/11/2025,6
+7,Network Slow,Medium,In Progress,07/11/2025,7
+8,OS Update Issue,High,Open,08/11/2025,8
+9,Account Locked,Critical,Resolved,09/11/2025,9
+10,Application Crash,High,Open,10/11/2025,10
